@@ -21,7 +21,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="xxx" />
+            android:value="AIzaSyCNZYvbFhyw7whg88fMvvqGH2wBIaxQ9KQ" />
 
         <provider
             android:name="com.example.android.shushme.provider.PlaceContentProvider"
